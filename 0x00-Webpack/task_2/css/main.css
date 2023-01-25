@@ -1,7 +1,7 @@
 #count {
   display: inline;
   font-weight: bold;
-  margin: 0;
+  margin: 1rem;
 }
 #logo {
   height: 200px;
