@@ -1,5 +1,5 @@
-import $ from "jquery";
-import _ from "lodash";
+const $ = require('jquery');
+const _ = require('lodash');
 
 let counter = 0;
 
