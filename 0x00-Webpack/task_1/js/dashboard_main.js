@@ -1,5 +1,5 @@
 import $ from "jquery";
-
+import _ from "lodash";
 
 let counter = 0;
 
